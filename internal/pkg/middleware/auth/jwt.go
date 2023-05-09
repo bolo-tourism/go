@@ -8,7 +8,7 @@ import (
 	ginjwt "github.com/appleboy/gin-jwt/v2"
 	"github.com/gin-gonic/gin"
 
-	"gitee.com/bolo-tourism/go/internal/pkg/middleware"
+	"github.com/bolo-tourism/go/internal/pkg/middleware"
 )
 
 // AuthzAudience defines the value of jwt audience field.

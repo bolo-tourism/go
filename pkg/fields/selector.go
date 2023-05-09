@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"gitee.com/bolo-tourism/go/pkg/selection"
+	"github.com/bolo-tourism/go/pkg/selection"
 )
 
 // Selector represents a field selector.

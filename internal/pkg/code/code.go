@@ -7,7 +7,7 @@ package code
 import (
 	"net/http"
 
-	"gitee.com/bolo-tourism/go/pkg/errors"
+	"github.com/bolo-tourism/go/pkg/errors"
 
 	"github.com/novalagung/gubrak"
 )

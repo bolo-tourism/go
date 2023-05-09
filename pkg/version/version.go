@@ -12,7 +12,7 @@ import (
 
 	"github.com/gosuri/uitable"
 
-	"gitee.com/bolo-tourism/go/pkg/json"
+	"github.com/bolo-tourism/go/pkg/json"
 )
 
 var (

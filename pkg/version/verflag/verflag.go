@@ -13,7 +13,7 @@ import (
 
 	flag "github.com/spf13/pflag"
 
-	"gitee.com/bolo-tourism/go/pkg/version"
+	"github.com/bolo-tourism/go/pkg/version"
 )
 
 type versionValue int

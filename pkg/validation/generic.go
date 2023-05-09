@@ -11,7 +11,7 @@ import (
 	"strings"
 	"unicode"
 
-	"gitee.com/bolo-tourism/go/pkg/validation/field"
+	"github.com/bolo-tourism/go/pkg/validation/field"
 )
 
 const (

@@ -12,18 +12,18 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/bolo-tourism/go/pkg/version"
+	"github.com/bolo-tourism/go/pkg/version"
 
-	"gitee.com/bolo-tourism/go/pkg/core"
+	"github.com/bolo-tourism/go/pkg/core"
 
-	"gitee.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/log"
 
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-gonic/gin"
 	ginprometheus "github.com/zsais/go-gin-prometheus"
 	"golang.org/x/sync/errgroup"
 
-	"gitee.com/bolo-tourism/go/internal/pkg/middleware"
+	"github.com/bolo-tourism/go/internal/pkg/middleware"
 )
 
 // GenericAPIServer contains state for an iam api server.

@@ -13,13 +13,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitee.com/bolo-tourism/go/pkg/errors"
+	"github.com/bolo-tourism/go/pkg/errors"
 
 	redis "github.com/go-redis/redis/v7"
 	uuid "github.com/satori/go.uuid"
 	"github.com/spf13/viper"
 
-	"gitee.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/log"
 )
 
 // Config defines options for redis cluster.

@@ -14,7 +14,7 @@ import (
 	"github.com/go-playground/validator/v10"
 	"github.com/go-playground/validator/v10/translations/en"
 
-	"gitee.com/bolo-tourism/go/pkg/validation/field"
+	"github.com/bolo-tourism/go/pkg/validation/field"
 )
 
 const (

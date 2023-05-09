@@ -7,8 +7,8 @@ package core
 import (
 	"net/http"
 
-	"gitee.com/bolo-tourism/go/pkg/errors"
-	"gitee.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/errors"
+	"github.com/bolo-tourism/go/pkg/log"
 
 	"github.com/gin-gonic/gin"
 )

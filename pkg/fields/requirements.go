@@ -4,7 +4,7 @@
 
 package fields
 
-import "gitee.com/bolo-tourism/go/pkg/selection"
+import "github.com/bolo-tourism/go/pkg/selection"
 
 // Requirements is AND of all requirements.
 type Requirements []Requirement

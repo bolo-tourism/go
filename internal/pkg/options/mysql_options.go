@@ -10,7 +10,7 @@ import (
 	"github.com/spf13/pflag"
 	"gorm.io/gorm"
 
-	"gitee.com/bolo-tourism/go/pkg/db"
+	"github.com/bolo-tourism/go/pkg/db"
 )
 
 // MySQLOptions defines options for mysql database.

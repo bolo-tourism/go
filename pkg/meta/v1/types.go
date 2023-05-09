@@ -7,7 +7,7 @@ package v1
 import (
 	"time"
 
-	"gitee.com/bolo-tourism/go/pkg/json"
+	"github.com/bolo-tourism/go/pkg/json"
 
 	"gorm.io/gorm"
 )

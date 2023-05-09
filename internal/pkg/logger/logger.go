@@ -16,7 +16,7 @@ import (
 
 	gormlogger "gorm.io/gorm/logger"
 
-	"gitee.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/log"
 )
 
 // Define colors.

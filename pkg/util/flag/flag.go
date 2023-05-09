@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"gitee.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/log"
 )
 
 // WordSepNormalizeFunc changes all flags that contain "_" separators.

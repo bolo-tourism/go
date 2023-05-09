@@ -7,13 +7,13 @@ package auth
 import (
 	"strings"
 
-	"gitee.com/bolo-tourism/go/pkg/core"
-	"gitee.com/bolo-tourism/go/pkg/errors"
+	"github.com/bolo-tourism/go/pkg/core"
+	"github.com/bolo-tourism/go/pkg/errors"
 
 	"github.com/gin-gonic/gin"
 
-	"gitee.com/bolo-tourism/go/internal/pkg/code"
-	"gitee.com/bolo-tourism/go/internal/pkg/middleware"
+	"github.com/bolo-tourism/go/internal/pkg/code"
+	"github.com/bolo-tourism/go/internal/pkg/middleware"
 )
 
 const authHeaderCount = 2

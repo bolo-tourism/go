@@ -1,7 +1,7 @@
 package options
 
 import (
-	"gitee.com/bolo-tourism/go/internal/pkg/server"
+	"github.com/bolo-tourism/go/internal/pkg/server"
 
 	"github.com/spf13/pflag"
 )

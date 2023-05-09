@@ -14,7 +14,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"gitee.com/bolo-tourism/go/pkg/shutdown"
+	"github.com/bolo-tourism/go/pkg/shutdown"
 )
 
 // Name defines shutdown manager name.

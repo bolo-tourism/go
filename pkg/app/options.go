@@ -4,7 +4,7 @@
 
 package app
 
-import cliflag "gitee.com/bolo-tourism/go/pkg/cli/flag"
+import cliflag "github.com/bolo-tourism/go/pkg/cli/flag"
 
 // CliOptions abstracts configuration options for reading parameters from the
 // command line.

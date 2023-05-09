@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"os"
 
-	cliflag "gitee.com/bolo-tourism/go/pkg/cli/flag"
-	"gitee.com/bolo-tourism/go/pkg/cli/globalflag"
-	"gitee.com/bolo-tourism/go/pkg/version"
+	cliflag "github.com/bolo-tourism/go/pkg/cli/flag"
+	"github.com/bolo-tourism/go/pkg/cli/globalflag"
+	"github.com/bolo-tourism/go/pkg/version"
 
-	"gitee.com/bolo-tourism/go/pkg/log"
-	"gitee.com/bolo-tourism/go/pkg/version/verflag"
+	"github.com/bolo-tourism/go/pkg/log"
+	"github.com/bolo-tourism/go/pkg/version/verflag"
 
-	"gitee.com/bolo-tourism/go/pkg/term"
+	"github.com/bolo-tourism/go/pkg/term"
 
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"

@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitee.com/bolo-tourism/go/pkg/json"
+	"github.com/bolo-tourism/go/pkg/json"
 
 	"github.com/spf13/pflag"
 	"go.uber.org/zap"

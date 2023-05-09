@@ -10,8 +10,8 @@ import (
 	"github.com/sony/sonyflake"
 	hashids "github.com/speps/go-hashids/v2"
 
-	"gitee.com/bolo-tourism/go/pkg/util/iputil"
-	"gitee.com/bolo-tourism/go/pkg/util/stringutil"
+	"github.com/bolo-tourism/go/pkg/util/iputil"
+	"github.com/bolo-tourism/go/pkg/util/stringutil"
 )
 
 // Defiens alphabet.

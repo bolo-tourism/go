@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"gitee.com/bolo-tourism/go/internal/pkg/server"
+	"github.com/bolo-tourism/go/internal/pkg/server"
 )
 
 // SecureServingOptions contains configuration items related to HTTPS server startup.

@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	utilerrors "gitee.com/bolo-tourism/go/pkg/errors"
+	utilerrors "github.com/bolo-tourism/go/pkg/errors"
 
-	"gitee.com/bolo-tourism/go/pkg/util/sets"
+	"github.com/bolo-tourism/go/pkg/util/sets"
 )
 
 // Error is an implementation of the 'error' interface, which represents a

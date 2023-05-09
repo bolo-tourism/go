@@ -28,7 +28,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"gitee.com/bolo-tourism/go/pkg/log/klog"
+	"github.com/bolo-tourism/go/pkg/log/klog"
 )
 
 // InfoLogger represents the ability to log non-error messages, at a particular verbosity.
