@@ -91,7 +91,7 @@ func (c CompletedConfig) New() (*GenericAPIServer, error) {
 	gin.SetMode(c.Mode)
 
 	s := &GenericAPIServer{
-		SecureServingInfo:   c.SecureServing,
+		// SecureServingInfo:   c.SecureServing,
 		InsecureServingInfo: c.InsecureServing,
 		healthz:             c.Healthz,
 		enableMetrics:       c.EnableMetrics,
