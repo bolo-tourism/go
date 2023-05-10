@@ -123,7 +123,7 @@ func (s *GenericAPIServer) PrepareRun() preparedGenericAPIServer {
 
 // Run spawns the http server. It only returns when the port cannot be listened on initially.
 func (s *GenericAPIServer) Run() error {
-	fmt.Println("s.InsecureServingInfo.Address：" + s.InsecureServingInfo.Address)
+	fmt.Println("s.InsecureServingInfo.Address：" + time.Now().GoString())
 	// For scalability, use custom HTTP configuration mode here
 	s.insecureServer = &http.Server{
 		Addr:    s.InsecureServingInfo.Address,
