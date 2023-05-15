@@ -9,10 +9,13 @@ import (
 	"os"
 	"reflect"
 
-	english "github.com/go-playground/locales/en"
+	// english "github.com/go-playground/locales/en"
+	english "github.com/go-playground/locales/zh"
 	ut "github.com/go-playground/universal-translator"
 	"github.com/go-playground/validator/v10"
-	"github.com/go-playground/validator/v10/translations/en"
+
+	// "github.com/go-playground/validator/v10/translations/en"
+	en "github.com/go-playground/validator/v10/translations/zh"
 
 	"github.com/bolo-tourism/go/pkg/validation/field"
 )
